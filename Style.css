@@ -341,7 +341,7 @@ body{
     height: 350px;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-image: url("../Final_Project/images/civileng.jpg");
+    background-image: url("images/civileng.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -393,7 +393,7 @@ body{
 .Block_5_icon_1{
     height: 110px;
     width: 110px;
-    background-image: url("../Final_Project/icons/people.png");
+    background-image: url("icons/people.png");
     background-size: contain;
     background-repeat: no-repeat;
     border: solid yellow 3px;
@@ -403,7 +403,7 @@ body{
 .Block_5_icon_2{
     height: 110px;
     width: 110px;
-    background-image: url("../Final_Project/icons/ball.png");
+    background-image: url("icons/ball.png");
     background-size: contain;
     background-repeat: no-repeat;
     border: solid yellow 3px;
@@ -413,7 +413,7 @@ body{
 .Block_5_icon_3{
     height: 110px;
     width: 110px;
-    background-image: url("../Final_Project/icons/arrow.png");
+    background-image: url("icons/arrow.png");
     background-size: contain;
     background-repeat: no-repeat;
     border: solid yellow 3px;
@@ -423,7 +423,7 @@ body{
 .Block_5_icon_4{
     height: 110px;
     width: 110px;
-    background-image: url("../Final_Project/icons/feather.png");
+    background-image: url("icons/feather.png");
     background-size: contain;
     background-repeat: no-repeat;
     border: solid yellow 3px;
@@ -456,7 +456,7 @@ body{
 .Block_6_img_1{
     height: 200px;
     width: 350px;
-    background-image: url("../Final_Project/images/1.jpg");
+    background-image: url("images/1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
@@ -464,7 +464,7 @@ body{
 .Block_6_img_2{
     height: 200px;
     width: 350px;
-    background-image: url("../Final_Project/images/2.jpg");
+    background-image: url("images/2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
@@ -472,7 +472,7 @@ body{
 .Block_6_img_3{
     height: 200px;
     width: 350px;
-    background-image: url("../Final_Project/images/3.jpg");
+    background-image: url("images/3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
@@ -541,7 +541,7 @@ body{
 .Footer{
     height: 100%;
     width: 100%;
-    background-image: url("../Final_Project/images/4.jpg");
+    background-image: url("images/4.jpg");
     background-size: cover;
     position: relative;
     padding: 0px;
